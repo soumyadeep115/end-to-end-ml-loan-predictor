@@ -52,8 +52,8 @@ pip install -r requirements.txt
 streamlit run app/main.py
 
 ## 🔍 Key Features Influencing Predictions
-The model identifies these as most important factors:
-Credit_History - Most significant predictor
+The model identifies these as most important factors:<br>
+Credit_History - Most significant predictor<br>
 ApplicantIncome - Applicant's income level
 LoanAmount - Requested loan amount
 DebtToIncomeRatio - Debt-to-income ratio
