@@ -54,22 +54,23 @@ streamlit run app/main.py
 ## 🔍 Key Features Influencing Predictions
 The model identifies these as most important factors:<br>
 Credit_History - Most significant predictor<br>
-ApplicantIncome - Applicant's income level
-LoanAmount - Requested loan amount
-DebtToIncomeRatio - Debt-to-income ratio
+ApplicantIncome - Applicant's income level<br>
+LoanAmount - Requested loan amount<br>
+DebtToIncomeRatio - Debt-to-income ratio<br>
 
-## 📊 Dataset Information
-The project uses loan application data with features including:
-Applicant income and employment details
-Credit history and score
-Loan amount and term
-Property area and type
-Co-applicant information
-Debt-to-income ratios
+## 📊 Dataset Information<br>
+The project uses loan application data with features including:<br>
+Applicant income and employment details<br>
+Credit history and score<br>
+Credit history and score<br>
+Loan amount and term<br>
+Property area and type<br>
+Co-applicant information<br>
+Debt-to-income ratios<br>
 
-## 🤝 Contributing
-Fork the repository
-Create a feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+## 🤝 Contributing<br>
+Fork the repository<br>
+Create a feature branch (git checkout -b feature/AmazingFeature)<br>
+Commit your changes (git commit -m 'Add some AmazingFeature')<br>
+Push to the branch (git push origin feature/AmazingFeature)<br>
+Open a Pull Request<br>
