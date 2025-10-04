@@ -1,0 +1,5 @@
+# Model files - don't upload
+*.pkl
+*.joblib
+models/
+data/
