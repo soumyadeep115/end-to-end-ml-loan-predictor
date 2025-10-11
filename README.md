@@ -49,7 +49,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ## Running Web Application
-streamlit run app/main.py
+streamlit run main.py
 
 ## 🔍 Key Features Influencing Predictions
 The model identifies these as most important factors:<br>
